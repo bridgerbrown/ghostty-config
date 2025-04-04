@@ -1,6 +1,2 @@
 # ghostty-config
-# ghostty-config
-# ghostty-config
-# ghostty-config
-# ghostty-config
-# ghostty-config
+My Ghostty terminal config file! 👻
